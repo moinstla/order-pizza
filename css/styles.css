@@ -1,3 +1,7 @@
 #output {
   display: none;
 };
+
+.well {
+  padding-left: 400px
+}

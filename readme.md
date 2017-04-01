@@ -11,7 +11,7 @@ This is a web application that allows the user to order a pizza by selecting the
 ## Specifications
 
 * The program returns the cost of the pizza based on the size selected
-      Example Input: Mediun
+      Example Input: Medium
       Example Output: $12
 
 * The program returns the cost of the pizza with the addition of toppings
