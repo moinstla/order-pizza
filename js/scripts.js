@@ -12,6 +12,7 @@ Pizza.prototype.price = function() {
 
 //Front-End Logic
 $(document).ready(function(){
+  $("select").children("option:first-child").hide();
   $("form").submit(function(event){
     event.preventDefault();
     var selectedSize = parseInt($("#size").val());
